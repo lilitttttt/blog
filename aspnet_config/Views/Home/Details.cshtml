@@ -1,0 +1,15 @@
+﻿@model aspnet_config.Models.User
+@{
+    ViewBag.Title = Model.Login_User;
+}
+<h2>Пользователь @Model.Login_User</h2>
+<div>
+    <dl class="dl-horizontal">
+        <dt>ID</dt>
+        <dd>@Model.Id_User</dd>
+        <dt>Email</dt>
+        <dd>@Model.Email_User</dd>
+        <dt>Login</dt>
+        <dd>@Model.Login_User</dd>
+    </dl>
+</div>

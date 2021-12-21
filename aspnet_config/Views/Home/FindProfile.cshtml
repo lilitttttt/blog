@@ -1,0 +1,22 @@
+﻿@model IEnumerable<aspnet_config.Models.User>
+@{
+    ViewBag.Title = "Found by name";
+}
+<a>@TestClass.TestStr</a>
+<table class="table">
+    @foreach (var item in Model)
+    {
+        if (item.Login_User.Contains(TestClass.TestStr))
+        {
+            <tr>
+                <td>@item.Id_User</td>
+                <td>@item.Email_User</td>
+                <td>@item.Login_User</td>
+                <td>@item.About_User</td>
+                <td>
+                    <a asp-action="DetailsProfilePost" asp-controller="Home" asp-route-id="@item.Id_User">Details</a>
+                </td>
+            </tr>
+        }
+    }
+</table>

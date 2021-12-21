@@ -1,0 +1,79 @@
+﻿@model aspnet_config.Models.UserPost
+@{ ViewBag.Title = "User page"; }
+<div style="display:flex; justify-content:center;">
+    | <a style="color: #00FFFF" asp-action="CreatePost" asp-controller="Home"> Создать пост </a> |
+    | <a style="color: #00FFFF" asp-action="Posts" asp-controller="Home"> Все посты </a> |
+    |<a style="color: #00FFFF" asp-action="Logout" asp-controller="Account"> Выход </a> |
+</div>
+
+    <form asp-controller="home" asp-action="FindProfile">
+        <p>
+            Title: <input type="text" name="SearchString" />
+            <input type="submit" value="Filter" />
+        </p>
+    </form>
+
+    @if (TestClass.TestInt != 1)
+    {
+<table class="table">
+    @foreach (var item in Model.Users)
+    {
+@if (item.Id_User == TestClass.TestInt)
+{
+<tr>
+    <td>Email: @item.Email_User</td>
+    <td>Login: @item.Login_User</td>
+    <td>About me: @item.About_User</td>
+    <td>
+        <a asp-action="EditProfile" asp-controller="Home" asp-route-id="@item.Id_User">|Edit|</a> |
+    </td>
+</tr> foreach (var item2 in Model.Posts)
+                        {
+                            if (item.Id_User == item2.Owner_Post)
+                            {
+<tr>
+    <td>
+        <img src="@Url.Content(item2.Photo_post)" width="50" height="50" alt="blogphoto" />
+
+    </td>
+    <td>Post name: @item2.Name_Post</td>
+    <td>Post text: @item2.Text_Post</td>
+    <td>Post author: @item.Login_User</td>
+    <td>
+        <a asp-action="EditPost" asp-controller="Home" asp-route-id="@item2.Id_Post">|Edit|</a>
+        <a asp-action="DeletePost" asp-controller="Home" asp-route-id="@item2.Id_Post">|Delete|</a>
+    </td>
+</tr>}
+                        }
+                        break;
+                    }}
+</table> }
+else if (TestClass.TestInt == 1)
+{
+<table class="table">
+    @foreach (var item in Model.Users)
+    {
+<tr>
+    <td>@item.Id_User</td>
+    <td>@item.Email_User</td>
+    <td>@item.Login_User</td>
+    <td>@item.Password_User</td>
+    <td>@item.About_User</td>
+    <td>
+        <a asp-action="EditProfile" asp-controller="Home" asp-route-id="@item.Id_User">|Edit|</a>
+        <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id_User">|Delete|</a>
+    </td>
+</tr>}
+    @foreach (var item2 in Model.Posts)
+    {
+<tr>
+    <td>@item2.Id_Post</td>
+    <td>@item2.Name_Post</td>
+    <td>@item2.Text_Post</td>
+    <td>@item2.Owner_Post</td>
+    <td>
+        <a asp-action="EditPost" asp-controller="Home" asp-route-id="@item2.Id_Post">|Edit|</a>
+        <a asp-action="DeletePost" asp-controller="Home" asp-route-id="@item2.Id_Post">|Delete|</a>
+    </td>
+</tr>}
+</table>}

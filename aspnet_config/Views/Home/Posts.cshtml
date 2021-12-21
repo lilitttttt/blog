@@ -1,0 +1,30 @@
+﻿@model aspnet_config.Models.UserPost
+@{
+    ViewBag.Title = "Posts";
+}
+
+<table class="table">
+
+    @foreach (var item in Model.Posts)
+    {
+        foreach (var item2 in Model.Users)
+        {
+            <tr>
+                @if (TestClass.TestInt == 1)
+                {
+                    <td>@item.Id_Post</td>
+                }
+                <td>
+                    <img src="@Url.Content(item.Photo_post)" width="50" height="50" alt="blogphoto" />
+
+                </td>
+                <td>Post name: @item.Name_Post</td>
+                <td>Post text: @item.Text_Post</td>
+                @if(item2.Id_User==item.Owner_Post)
+                    {
+            <td>Post author: @item2.Login_User</td> 
+                    }
+            </tr>
+        }
+    }
+</table>

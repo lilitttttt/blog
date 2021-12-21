@@ -1,0 +1,266 @@
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\appsettings.json
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.exe
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.deps.json
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.json
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfo.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\scopedcss\bundle\aspnet_config.styles.css
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\staticwebassets\aspnet_config.StaticWebAssets.Manifest.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.input.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.output.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorCoreGenerate.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CopyComplete
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.pdb
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.genruntimeconfig.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\ProfileShow.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditPost.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DeletePost.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\FindProfile.cshtml.g.cs
+C:\Users\sasha\source\repos\aspnet_config\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DetailsProfilePost.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\appsettings.json
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.exe
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.deps.json
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.json
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.dev.json
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.AssemblyReference.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfoInputs.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfo.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CoreCompileInputs.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\staticwebassets\aspnet_config.StaticWebAssets.Manifest.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\staticwebassets\aspnet_config.StaticWebAssets.xml
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\scopedcss\bundle\aspnet_config.styles.css
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.input.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.output.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorCoreGenerate.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DeletePost.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DetailsProfilePost.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditPost.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\FindProfile.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\ProfileShow.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cache
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cs
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CopyComplete
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.pdb
+C:\Users\lu4ik\Desktop\МПТ\3 курс\РПМ(Михайлин)\Копии\Ислам\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.genruntimeconfig.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\appsettings.json
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.exe
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.deps.json
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.json
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.runtimeconfig.dev.json
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csprojAssemblyReference.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfoInputs.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.AssemblyInfo.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CoreCompileInputs.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorAssemblyInfo.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\staticwebassets\aspnet_config.StaticWebAssets.Manifest.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\staticwebassets\aspnet_config.StaticWebAssets.xml
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\scopedcss\bundle\aspnet_config.styles.css
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.input.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.TagHelpers.output.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorCoreGenerate.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DeletePost.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\DetailsProfilePost.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditPost.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\FindProfile.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Home\ProfileShow.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cache
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.RazorTargetAssemblyInfo.cs
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.Views.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.csproj.CopyComplete
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\ref\aspnet_config.dll
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.pdb
+C:\Users\toxg1\OneDrive\Рабочий стол\ycheba\aspnet-blog-main\aspnet_config\obj\Debug\net5.0\aspnet_config.genruntimeconfig.cache

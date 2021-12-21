@@ -1,0 +1,38 @@
+﻿@model IEnumerable<aspnet_config.Models.User>
+@{
+    ViewBag.Title = "Все пользователи";
+}
+<div style="display:flex; justify-content:center;">
+    | <a style="color: #00FFFF" asp-action="Create"> Добавить пользователя </a> |
+    | <a style="color: #00FFFF" asp-action="CreatePost" asp-controller="Home"> Создать пост </a> |
+    | <a style="color: #00FFFF" asp-action="Posts" asp-controller="Home"> Все посты </a> |
+    | <a style="color: #00FFFF" asp-action="ProfileShow" asp-controller="Home"> Просмотр профиля </a> |
+    | <a style="color: #00FFFF" asp-action="Logout" asp-controller="Account"> Выход </a> |
+</div>
+
+<td> 
+    @if (true)
+    {
+        TestClass testClass = new TestClass();
+        int i = TestClass.TestInt;
+        @i
+    }
+</td>
+
+<table class="table" style="color:white">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id_User</td>
+            <td>@item.Email_User</td>
+            <td>@item.Login_User</td>
+            <td>@item.About_User</td>
+            <td>
+                <a style="color: #00FFFF" asp-action="Details" asp-controller="Home" asp-route-id="@item.Id_User">Подробнее</a> |
+                <a style="color: #00FFFF" asp-action="EditProfile" asp-controller="Home" asp-route-id="@item.Id_User">Изменить</a> |
+                <a style="color: #00FFFF" asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id_User">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>
